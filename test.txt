@@ -1,0 +1,3 @@
+hello
+its simple
+how to work with git
